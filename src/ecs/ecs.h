@@ -1,8 +1,8 @@
 #pragma once
 
 namespace me {
-class InputHandler{
+class ECS {
 public:
-    InputHandler();
+    ECS();
 };
 }
